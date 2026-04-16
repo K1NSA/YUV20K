@@ -36,6 +36,42 @@ We release **YUV20K**, providing high-quality annotations for complex camouflage
 * **Download Link:** [Baidu Netdisk (Pwd: xxxx)]()
 
 ---
+## 🎬 Exploring the YUV20K Dataset
+
+To comprehensively evaluate VCOD algorithms under extreme conditions, we introduce **YUV20K**. This dataset is specifically designed to encompass severe motion blur, dynamic backgrounds, and complex camouflage patterns.
+
+### 🌟 Dataset Statistics
+* **Scale:** Over 20,000 finely annotated frames.
+* **Diversity:** Covers various challenging scenarios including fast motion, illumination changes, and occlusion.
+* **Annotation:** High-quality pixel-level binary masks for every frame.
+
+### 👀 Visualizing the Challenges
+Below are representative samples from YUV20K, demonstrating the extreme difficulty of the scenes:
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/dataset_fast_motion.gif" alt="Fast Motion" width="280px">
+      <br><b>🌪️ Fast Motion</b>
+      <br><i>Severe motion blur causes feature distortion.</i>
+    </td>
+    <td align="center">
+      <img src="assets/dataset_dynamic_bg.gif" alt="Dynamic Background" width="280px">
+      <br><b>🌊 Dynamic Background</b>
+      <br><i>Moving background acts as strong interference.</i>
+    </td>
+    <td align="center">
+      <img src="assets/dataset_illumination.gif" alt="Illumination Change" width="280px">
+      <br><b>💡 Illumination Change</b>
+      <br><i>Varying lighting obscures target boundaries.</i>
+    </td>
+  </tr>
+</table>
+
+
+
+
+--
 
 ## 🧠 Architecture & Implementation
 
