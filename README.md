@@ -28,6 +28,7 @@
 ---
 
 ## 📀 The YUV20K Dataset
+<img width="644" height="260" alt="image" src="https://github.com/user-attachments/assets/b3065833-87a4-4b47-a2d2-eefe4fa7f3be" />
 
 We release **YUV20K**, providing high-quality annotations for complex camouflaged videos.
 
