@@ -1,4 +1,4 @@
-# [YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection]
+<img width="512" height="288" alt="leaf_insects_1" src="https://github.com/user-attachments/assets/b72badea-2615-49e7-9a31-78df4b9596df" /># [YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection]
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-B31B1B?style=flat-square&logo=arxiv&logoColor=white)]()
 [![Dataset: YUV20K](https://img.shields.io/badge/Dataset-YUV20K-06A7FF?style=flat-square&logo=baidu&logoColor=white)]()
@@ -40,7 +40,19 @@ We release **YUV20K**, providing high-quality annotations for complex camouflage
 ## 🎬 Dataset Show
 
 <img width="512" height="288" alt="horn_shark angel_shark" src="https://github.com/user-attachments/assets/33af8311-2ddd-44ca-a3b2-4534c7498d74" />
-![Uploading octopus_3.gif…]()
+
+<img width="512" height="288" alt="octopus_3" src="https://github.com/user-attachments/assets/9cad437c-de6a-4960-b37f-1046dd1833db" />
+
+
+<img width="512" height="288" alt="eastern_screech_owl_1" src="https://github.com/user-attachments/assets/40822bb6-d16a-4584-9e1b-f7375b0edb6f" />
+
+<img width="512" height="288" alt="savanna nightjar_2" src="https://github.com/user-attachments/assets/906b659d-6622-464c-9a3b-d28046f5d5a8" />
+
+<img width="512" height="288" alt="leaf_insects_2" src="https://github.com/user-attachments/assets/dffe0b83-170e-4dda-88a3-3ed977543b03" />
+
+<img width="512" height="288" alt="spider_tailed_horned_viper_1" src="https://github.com/user-attachments/assets/341f4d6a-38c2-42c5-b4ec-3a3efc1d38cc" />
+
+
 
 
 
