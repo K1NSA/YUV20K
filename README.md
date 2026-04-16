@@ -24,9 +24,9 @@
 ## 📑 Table of Contents
 - [Highlights](#-highlights)
 - [The YUV20K Dataset](#-the-yuv20k-dataset)
+- [Dataset Show](#-dataset-show)
 - [Architecture & Implementation](#-architecture--implementation)
-- [Getting Started](#-getting-started)
-- [Citation & Contact](#-citation--contact)
+- [Quantitative Comparison](#-quantitative-comparison)
 
 ---
 
