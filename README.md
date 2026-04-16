@@ -53,6 +53,33 @@ We release **YUV20K**, providing high-quality annotations for complex camouflage
 <img width="512" height="288" alt="spider_tailed_horned_viper_1" src="https://github.com/user-attachments/assets/341f4d6a-38c2-42c5-b4ec-3a3efc1d38cc" />
 
 
+<table>
+  <tr>
+    <td align="center">
+      <img width="512" height="288" alt="horn_shark angel_shark" src="https://github.com/user-attachments/assets/33af8311-2ddd-44ca-a3b2-4534c7498d74" />
+    </td>
+    <td align="center">
+      <img width="512" height="288" alt="octopus_3" src="https://github.com/user-attachments/assets/9cad437c-de6a-4960-b37f-1046dd1833db" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="512" height="288" alt="eastern_screech_owl_1" src="https://github.com/user-attachments/assets/40822bb6-d16a-4584-9e1b-f7375b0edb6f" />
+    </td>
+    <td align="center">
+      <img width="512" height="288" alt="savanna nightjar_2" src="https://github.com/user-attachments/assets/90022bb6-d16a-4584-9e1b-f7375b0edb6f" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="512" height="288" alt="leaf_insects_2" src="https://github.com/user-attachments/assets/dffe0b83-170e-4dda-88a3-3ed977543b03" />
+    </td>
+    <td align="center">
+      <img width="512" height="288" alt="spider_tailed_horned_viper_1" src="https://github.com/user-attachments/assets/341f4d6a-38c2-42c5-b4ec-3a3efc1d38cc" />
+    </td>
+  </tr>
+</table>
+
 
 
 
