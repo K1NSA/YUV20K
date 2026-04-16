@@ -100,12 +100,12 @@ To achieve optimal performance on different datasets, we strongly recommend the 
   * For **YUV** dataset: `theta = 0.158`
 *(Note: In future work, $\theta$ can be extended as a learnable parameter rather than a fixed scalar.)*
 
----
 
-## ⚙️ Getting Started
 
-### Prerequisites
-```bash
-git clone [https://github.com/yourusername/YourProject.git](https://github.com/yourusername/YourProject.git)
-cd YourProject
-pip install -r requirements.txt
+### 📈 Quantitative Comparison
+Our method achieves state-of-the-art performance on the **YUV20K** and **MoCA-Mask** benchmarks.
+<img width="770" height="207" alt="image" src="https://github.com/user-attachments/assets/29af2eac-3959-414c-9879-fe0d8ee0cdd1" />
+
+
+
+
