@@ -49,11 +49,14 @@ We release **YUV20K**, providing high-quality annotations for complex camouflage
 
 ---
 ## 🎬 Dataset Show
-Static
-<img width="761" height="453" alt="dataset_image" src="https://github.com/user-attachments/assets/3c0c9fb5-2904-4c09-9ec2-2e11391cbba1" />
+### 🖼️ Static Images
+<div align="center">
+  <img width="761" height="453" alt="dataset_image" src="https://github.com/user-attachments/assets/3c0c9fb5-2904-4c09-9ec2-2e11391cbba1" />
+</div>
 
+---
 
-Gif
+### 🎞️ Dynamic GIFs
 <table>
   <tr>
     <td align="center">
