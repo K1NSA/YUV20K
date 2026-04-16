@@ -38,6 +38,8 @@ We release **YUV20K**, providing high-quality annotations for complex camouflage
 
 ---
 ## 🎬 Dataset Show
+<img width="766" height="347" alt="image" src="https://github.com/user-attachments/assets/1e0c495e-d0c4-4e35-8755-513c0245b278" />
+
 
 <img width="512" height="288" alt="horn_shark angel_shark" src="https://github.com/user-attachments/assets/33af8311-2ddd-44ca-a3b2-4534c7498d74" />
 
@@ -90,11 +92,8 @@ We release **YUV20K**, providing high-quality annotations for complex camouflage
 --
 
 ## 🧠 Architecture & Implementation
+<img width="761" height="453" alt="image" src="https://github.com/user-attachments/assets/3c0c9fb5-2904-4c09-9ec2-2e11391cbba1" />
 
-<div align="center">
-  <img src="assets/pipeline.png" width="95%" alt="Network Architecture">
-  <p><em>Figure 1: Pipeline of our proposed method featuring MFS and TAA modules.</em></p>
-</div>
 
 ### 🔑 Key Hyperparameter Settings (Tips for Reproduction)
 To achieve optimal performance on different datasets, we strongly recommend the following parameter configurations in your `config.yaml`:
