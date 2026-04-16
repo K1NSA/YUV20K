@@ -10,6 +10,15 @@
 
 ---
 
+## 📅 Project Roadmap & Updates
+
+| Date | Event | Status |
+| :--- | :--- | :---: |
+| 2026-04 | Paper submission | ✅ |
+| 2026-xx | Soon Release YUV20K dataset |  |
+
+
+---
 ## 📑 Table of Contents
 - [Highlights](#-highlights)
 - [The YUV20K Dataset](#-the-yuv20k-dataset)
