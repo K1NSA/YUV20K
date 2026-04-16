@@ -38,7 +38,7 @@ We release **YUV20K**, providing high-quality annotations for complex camouflage
 
 ---
 ## 🎬 Dataset Show
-<img width="761" height="453" alt="image" src="https://github.com/user-attachments/assets/3c0c9fb5-2904-4c09-9ec2-2e11391cbba1" />
+<img width="761" height="453" alt="dataset_image" src="https://github.com/user-attachments/assets/3c0c9fb5-2904-4c09-9ec2-2e11391cbba1" />
 
 
 
@@ -83,17 +83,10 @@ We release **YUV20K**, providing high-quality annotations for complex camouflage
   </tr>
 </table>
 
-
-
-
-
-
-
-
 --
 
 ## 🧠 Architecture & Implementation
-<img width="766" height="347" alt="image" src="https://github.com/user-attachments/assets/1e0c495e-d0c4-4e35-8755-513c0245b278" />
+<img width="766" height="347" alt="structure" src="https://github.com/user-attachments/assets/1e0c495e-d0c4-4e35-8755-513c0245b278" />
 
 
 
