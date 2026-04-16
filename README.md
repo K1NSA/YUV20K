@@ -32,8 +32,8 @@
 
 We release **YUV20K**, providing high-quality annotations for complex camouflaged videos.
 
-* **Access:** The dataset is hosted on Baidu Netdisk and Google Drive. 
-* **Agreement:** To protect the data, please fill out the [Data Access Agreement](./assets/Agreement.pdf) (CC BY-NC 4.0) and email us for the unzip password.
+* **Access:** The dataset will be publicated on Baidu Netdisk and Google Drive. 
+* **Agreement:** To protect the data, we will prepare a [Data Access Agreement](./assets/Agreement.pdf) (CC BY-NC 4.0) please fill it and email us for the unzip password.
 * **Download Link:** [Baidu Netdisk (Pwd: xxxx)]()
 
 ---
