@@ -1,12 +1,12 @@
-# [Paper Title: e.g., Trajectory-Aware Alignment and Motion Stabilization for VCOD]
+# [YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection]
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-B31B1B?style=flat-square&logo=arxiv&logoColor=white)]()
 [![Dataset: YUV20K](https://img.shields.io/badge/Dataset-YUV20K-06A7FF?style=flat-square&logo=baidu&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-green.style=flat-square)]()
 
-**Official PyTorch Implementation and the YUV20K Dataset.**
+**YUV20K Dataset.**
 
-> **Brief Introduction:** We introduce a novel framework for Video Camouflaged Object Detection (VCOD). To tackle severe motion blur and complex camouflage, we propose the **Motion Feature Stabilization (MFS)** and **Trajectory-Aware Alignment (TAA)** modules. Furthermore, we contribute **YUV20K**, a new large-scale dataset to advance VCOD research.
+> **Brief Introduction:** We introduce a novel framework for Video Camouflaged Object Detection (VCOD). To tackle motion-induced feature instability, we propose the **Motion Feature Stabilization (MFS)** and to tackle temporal feature misalignment, we propose **Trajectory-Aware Alignment (TAA)** modules. Furthermore, we contribute **YUV20K**, a new large-scale , complexity-driven dataset to advance VCOD research.
 
 ---
 
@@ -21,8 +21,8 @@
 
 ## 🌟 Highlights
 
-1. **New Dataset (YUV20K):** A comprehensive video dataset specifically curated for extremely challenging VCOD scenarios.
-2. **Trajectory-Aware Alignment (TAA):** Accurately models object motion trajectories to align temporal features.
+1. **New Dataset (YUV20K):** A comprehensive video dataset specifically curated for complex challenging VCOD scenarios.
+2. **Trajectory-Aware Alignment (TAA):** Accurately predict object motion trajectories to align temporal features.
 3. **Motion Feature Stabilization (MFS):** Utilizes Semantic Basis Primitives (SBPs) to stabilize features against motion-induced distortions.
 
 ---
@@ -31,7 +31,7 @@
 
 We release **YUV20K**, providing high-quality annotations for complex camouflaged videos.
 
-* **Access:** The dataset is hosted on Baidu Netdisk. 
+* **Access:** The dataset is hosted on Baidu Netdisk and Google Drive. 
 * **Agreement:** To protect the data, please fill out the [Data Access Agreement](./assets/Agreement.pdf) (CC BY-NC 4.0) and email us for the unzip password.
 * **Download Link:** [Baidu Netdisk (Pwd: xxxx)]()
 
