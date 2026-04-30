@@ -17,7 +17,7 @@
 | Date | Event | Status |
 | :--- | :--- | :---: |
 | 2026-04 | Paper submission | ✅ |
-| 2026-05 | Release YUV20K dataset on Google and Baidu | ✅ |
+| 2026-05 | Release YUV20K dataset on Google Drive & Baidu Netdisk | ✅ |
 | 2026 | Release source code |  |
 
 
