@@ -114,4 +114,30 @@ Our method achieves state-of-the-art performance on the **YUV20K** and **MoCA-Ma
 
 
 
+## License & Terms of Use
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+The YUV20K dataset is available under the **CC BY-NC 4.0 License**.
+
+**Disclaimer (免责声明):** 
+The raw videos included in this dataset are collected from public internet sources (e.g., documentaries). The copyright of these videos belongs to their original creators/owners. This dataset is compiled strictly for **academic research purposes only** under the principle of Fair Use. Any commercial usage of this dataset is strictly prohibited. If you are a copyright owner and wish to have your content removed, please contact us, and we will delete it immediately.
+
+（本数据集包含的原始视频均收集自公开网络来源。这些视频的版权归其原始创作者/所有者所有。本数据集的构建严格遵循“合理使用”原则，仅供学术研究使用。严禁将本数据集用于任何商业用途。如果您是版权所有者并希望移除您的内容，请与我们联系，我们将立即删除。）
+
+---
+
+## Citation
+
+If you find our paper or the YUV20K dataset useful for your research, please consider citing:
+(如果您认为我们的论文或 YUV20K 数据集对您的研究有帮助，请考虑引用：)
+```bibtex
+@article{liu2026yuv20k,
+  title={YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection},
+  author={Liu, Yiyu and Ye, Shuo and Hao, Chao and Yu, Zitong},
+  journal={arXiv preprint arXiv:2604.09985},
+  year={2026}
+}
+
+
 
