@@ -28,7 +28,8 @@
 - [Dataset Show](#-dataset-show)
 - [Architecture & Implementation](#-architecture--implementation)
 - [Quantitative Comparison](#-quantitative-comparison)
-- [License & Terms of Use](#-license&termsofuse)
+- [License & Terms of Use](#license--terms-of-use)
+- [Citation](#citation)
 
 ---
 
