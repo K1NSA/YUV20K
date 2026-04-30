@@ -1,8 +1,9 @@
 # [YUV20K: A Complexity-Driven Benchmark and Trajectory-Aware Alignment Model for Video Camouflaged Object Detection]
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.09985)
-[![Dataset: YUV20K](https://img.shields.io/badge/Dataset-YUV20K-06A7FF?style=flat-square&logo=baidu&logoColor=white)]()
+[![Dataset: YUV20K](https://img.shields.io/badge/Dataset-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Iu5SI3CAQz5Zz293_aRpuo40O5NaTtkB/view?usp=sharing)
 [![License](https://img.shields.io/badge/License-MIT-green.style=flat-square)]()
+
 
 **YUV20K Dataset.**
 
@@ -15,7 +16,7 @@
 | Date | Event | Status |
 | :--- | :--- | :---: |
 | 2026-04 | Paper submission | ✅ |
-| 2026 | Release YUV20K dataset |  |
+| 2026 | Release YUV20K dataset | ✅ |
 | 2026 | Release source code |  |
 
 
