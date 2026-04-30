@@ -16,7 +16,7 @@
 | Date | Event | Status |
 | :--- | :--- | :---: |
 | 2026-04 | Paper submission | ✅ |
-| 2026 | Release YUV20K dataset | ✅ |
+| 2026-05 | Release YUV20K dataset | ✅ |
 | 2026 | Release source code |  |
 
 
