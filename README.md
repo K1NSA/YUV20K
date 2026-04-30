@@ -44,7 +44,13 @@
 
 We release **YUV20K**, providing high-quality annotations for complex camouflaged videos.
 
-* **Agreement:** To protect the data, please follow CC BY-NC 4.0).
+* **Agreement:** License & Terms of Use (许可与使用条款)
+
+The YUV20K dataset is available under the CC BY-NC 4.0 License (知识共享署名-非商业性使用 4.0 国际许可协议).
+
+Disclaimer (免责声明):
+The raw videos included in this dataset are collected from public internet sources (e.g., documentaries). The copyright of these videos belongs to their original creators/owners. This dataset is compiled strictly for academic research purposes only (仅供学术研究使用) under the principle of Fair Use (合理使用). Any commercial usage of this dataset is strictly prohibited. If you are a copyright owner and wish to have your content removed, please contact us, and we will delete it immediately.
+（本数据集包含的原始视频均收集自公开网络来源。这些视频的版权归其原始创作者/所有者所有。本数据集的构建严格遵循“合理使用”原则，仅供学术研究使用。严禁将本数据集用于任何商业用途。如果您是版权所有者并希望移除您的内容，请与我们联系，我们将立即删除。）
 * **Download Link:** (https://drive.google.com/file/d/1Iu5SI3CAQz5Zz293_aRpuo40O5NaTtkB/view?usp=sharing)
 
 ---
