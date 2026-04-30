@@ -45,7 +45,7 @@
 We release **YUV20K**, providing high-quality annotations for complex camouflaged videos.
 
 * **Agreement:** To protect the data, please follow CC BY-NC 4.0).
-* **Download Link:** [![Dataset: YUV20K](https://img.shields.io/badge/Dataset-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Iu5SI3CAQz5Zz293_aRpuo40O5NaTtkB/view?usp=sharing)
+* **Download Link:** (https://drive.google.com/file/d/1Iu5SI3CAQz5Zz293_aRpuo40O5NaTtkB/view?usp=sharing)
 
 ---
 ## 🎬 Dataset Show
