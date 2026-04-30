@@ -2,7 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.09985)
 [![Dataset: YUV20K](https://img.shields.io/badge/Dataset-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/14fnzXft8mlU5Sp2r6RFNRhSgt6yht86N?usp=drive_link)
-[![Dataset: Baidu Netdisk](https://img.shields.io/badge/Dataset-Baidu_Netdisk-06A7FF?style=flat-square&logo=baidu&logoColor=white)](https://pan.baidu.com/s/1ZmCyx5LZQYDJurdbPGvqjQ?pwd=YUV2) **提取码 (Password):** YUV2
+[![Dataset: Baidu Netdisk](https://img.shields.io/badge/Dataset-Baidu_Netdisk-06A7FF?style=flat-square&logo=baidu&logoColor=white)](https://pan.baidu.com/s/1ZmCyx5LZQYDJurdbPGvqjQ?pwd=YUV2)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 
